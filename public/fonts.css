@@ -1,0 +1,8 @@
+body {
+    font-family: 'Ticketing';
+}
+
+@font-face {
+  font-family: 'Ticketing';
+  src: local('Ticketing'), url('./fonts/ticketing-jjb0-webfont.woff') format('woff2');
+}
