@@ -1,6 +1,6 @@
 # Retro Dashboard
 
-A Windows 98 inspired dashboard landing page.
+A Windows 98 inspired dashboard landing page built with Create React App
 
 ![app](https://i.imgur.com/hD67hTt.png)
 
